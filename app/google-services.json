@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "467854729444",
+    "firebase_url": "https://friendlypix-android-mast-e0282.firebaseio.com",
+    "project_id": "friendlypix-android-mast-e0282",
+    "storage_bucket": "friendlypix-android-mast-e0282.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467854729444:android:58607e5bb914b2f6",
+        "android_client_info": {
+          "package_name": "com.google.firebase.samples.apps.friendlypixtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467854729444-glmdki5rbuubli2ng33oad1964b40e3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6SU2h5EgtuWXu_taniWXjH1ApJNfSNwo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

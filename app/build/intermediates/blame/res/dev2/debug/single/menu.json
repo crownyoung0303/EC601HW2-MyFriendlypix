@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\workspace\\MyFriendlypix\\app\\build\\intermediates\\res\\merged\\dev2\\debug\\menu\\nav_drawer.xml",
+        "source": "D:\\workspace\\MyFriendlypix\\app\\src\\main\\res\\menu\\nav_drawer.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MyFriendlypix\\app\\build\\intermediates\\res\\merged\\dev2\\debug\\menu\\menu_main.xml",
+        "source": "D:\\workspace\\MyFriendlypix\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MyFriendlypix\\app\\build\\intermediates\\res\\merged\\dev2\\debug\\menu\\menu_feed.xml",
+        "source": "D:\\workspace\\MyFriendlypix\\app\\src\\main\\res\\menu\\menu_feed.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MyFriendlypix\\app\\build\\intermediates\\res\\merged\\dev2\\debug\\menu\\menu_feeds.xml",
+        "source": "D:\\workspace\\MyFriendlypix\\app\\src\\main\\res\\menu\\menu_feeds.xml"
+    }
+]
