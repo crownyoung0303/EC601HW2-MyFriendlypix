@@ -2,270 +2,270 @@
 <items version="2" >
 
     <item
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-database-9.0.2_b513fae722748dd75e8ff128b7f18fbe02273a29.jar" />
+    </item>
+    <item
         jar="C:\Users\crown\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpmime\4.3.1\f7899276dddd01d8a42ecfe27e7031fcf9824422\httpmime-4.3.1.jar"
         jumboMode="false"
         revision="23.0.3"
         sha1="f7899276dddd01d8a42ecfe27e7031fcf9824422">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\httpmime-4.3.1_b2a02ebf65dd425c2662cab0e847c2937bff2907.jar" />
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\httpmime-4.3.1_b2a02ebf65dd425c2662cab0e847c2937bff2907.jar" />
     </item>
     <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.2\jars\classes.jar"
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.3"
-        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.android.gms-play-services-location-9.0.2_633aec3a90fba76217e287c4bc6a41325127a83d.jar" />
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\de.hdodenhof-circleimageview-2.0.0_405efe909843e556b21c25dee06e8fdca125de5b.jar" />
     </item>
     <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
         jumboMode="false"
         revision="23.0.3"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.android.support-support-vector-drawable-23.4.0_3f6674204a0c59bf548de2b2ae51845ffae69fa9.jar" />
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.android.gms-play-services-base-9.0.2_83b684ecb6143031f9ba5e262a45810002184371.jar" />
+    </item>
+    <item
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.android.support-support-v4-23.4.0_245c59d5330598436f43b018f1590ae5f612da23.jar" />
     </item>
     <item
         jar="C:\Users\crown\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.7.3\f12e6cd05cbaecd74d16e685d45b627732939e42\jackson-databind-2.7.3.jar"
         jumboMode="false"
         revision="23.0.3"
         sha1="f12e6cd05cbaecd74d16e685d45b627732939e42">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\jackson-databind-2.7.3_36edb902609c74d50c7ff7badd2d16197bb07be5.jar" />
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\jackson-databind-2.7.3_36edb902609c74d50c7ff7badd2d16197bb07be5.jar" />
     </item>
     <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.2\jars\classes.jar"
         jumboMode="false"
         revision="23.0.3"
-        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.android.support-design-23.4.0_b3168f45a307f4561222170dc68b6eacf86d8d3e.jar" />
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-auth-module-9.0.2_cc03c15c8cbbbd95ee835df319a9dcf026ddc223.jar" />
     </item>
     <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.2\jars\classes.jar"
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\jars\classes.jar"
         jumboMode="false"
         revision="23.0.3"
-        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-database-connection-9.0.2_5327c256d8a4e7c6cedf77565fd9e735dfa1b049.jar" />
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-analytics-9.0.2_bba5938b4e03c776c3767f16a4958e5706af50cf.jar" />
     </item>
     <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-database\0.4.0\jars\classes.jar"
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\internal_impl-23.4.0_669a870b148e2401596fb1b393d3f07909377cc4.jar" />
+    </item>
+    <item
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.android.support-cardview-v7-23.4.0_8169a21ceb3bbffd003a5b7c45605b41a97b7395.jar" />
+    </item>
+    <item
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.android.support-animated-vector-drawable-23.4.0_bc0378c7d8fda162b0b886d6eb38ee3697428b81.jar" />
+    </item>
+    <item
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-database\0.4.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.3"
         sha1="c76f6507a42aec274953e882bf3c49a570843ef5">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.firebaseui-firebase-ui-database-0.4.0_b9408301fafbbcf9c70c70addb53edb52bc8094f.jar" />
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.firebaseui-firebase-ui-database-0.4.0_2439bb6c5513d1fb62d8be38cd8d8c8d1391c98c.jar" />
     </item>
     <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.2\jars\classes.jar"
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\com.android.support\percent\23.4.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.3"
-        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-auth-common-9.0.2_6685cb427708bdbde8e3c804147b18127c464686.jar" />
+        sha1="91c2541305eec5a688f3a60529d974e48f77d760">
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.android.support-percent-23.4.0_4bbbc4d93830f4e5f27a76e0e7034be1f0109d92.jar" />
     </item>
     <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.2\jars\classes.jar"
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\pub.devrel\easypermissions\0.1.5\jars\classes.jar"
         jumboMode="false"
         revision="23.0.3"
-        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-storage-common-9.0.2_0772a953dd5e86b0b80ee0ea1e36c9dc204f4d1b.jar" />
+        sha1="2ffd97c466e0021572f3c7333839c71ecdf393ed">
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\pub.devrel-easypermissions-0.1.5_02469770855b3d5d442ee5e3cf267405fef9b6b8.jar" />
     </item>
     <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
         jumboMode="false"
         revision="23.0.3"
         sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-common-9.0.2_6b5ca65fafe762d40ce2d114a16719c44b8e1ddd.jar" />
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-common-9.0.2_566ec979d136563974eff5c8b223d48507a1677e.jar" />
     </item>
     <item
         jar="C:\Users\crown\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.7.3\1499b854ae9f370409792db5af1b552dc7d9682f\jackson-core-2.7.3.jar"
         jumboMode="false"
         revision="23.0.3"
         sha1="1499b854ae9f370409792db5af1b552dc7d9682f">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\jackson-core-2.7.3_2a55b6e9a1a75a019a1e977cafd5a74ebc6d2718.jar" />
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\jackson-core-2.7.3_2a55b6e9a1a75a019a1e977cafd5a74ebc6d2718.jar" />
     </item>
     <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.3"
-        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.android.support-cardview-v7-23.4.0_b5064cc48716b566267809629223c782cfedfa8c.jar" />
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.android.support-recyclerview-v7-23.4.0_930da357f76289c5214123a77618a529f5de54f4.jar" />
     </item>
     <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-auth-9.0.2_477052410f8dfa3df57d2fc3ec142701162f241f.jar" />
-    </item>
-    <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\de.hdodenhof-circleimageview-2.0.0_20252435455a400e3f9122b32f1aef8b8af64d33.jar" />
-    </item>
-    <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-database-9.0.2_7cf5ece3b2366fba001867f07b0cf4f118817498.jar" />
-    </item>
-    <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="829c6e46cb221c2102801221c648b77113743e81">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.android.gms-play-services-auth-base-9.0.2_bfa1f915617e0a997223113e8e40d6dbb8135d1c.jar" />
-    </item>
-    <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-analytics-9.0.2_01596a4375ccbafd2a776b5a5a3bee0f140a2001.jar" />
-    </item>
-    <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
         jumboMode="false"
         revision="23.0.3"
         sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.android.gms-play-services-basement-9.0.2_01ec48f74d62e7d963da06dce9fbbe2460fe3e9a.jar" />
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.android.gms-play-services-basement-9.0.2_a09785723c6446b40c956d9107169a22a9aa603a.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\support-annotations-23.4.0_6c2a284fdd61d0d8ac24aa3991d9cfbc35ef85c7.jar" />
+    </item>
+    <item
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.android.gms-play-services-location-9.0.2_71f6ea1da515f06aca275b677909eeb97094ac83.jar" />
+    </item>
+    <item
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-auth-9.0.2_4a277a0e24cf351a7329094ee035e28abf178a72.jar" />
     </item>
     <item
         jar="C:\Users\crown\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.0\a7537446a030da8eb0da4c71424d16c2589f6c4a\glide-3.6.0.jar"
         jumboMode="false"
         revision="23.0.3"
         sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\glide-3.6.0_a666e16d078d7f9abf6aa744ff391046580d2500.jar" />
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\glide-3.6.0_a666e16d078d7f9abf6aa744ff391046580d2500.jar" />
     </item>
     <item
-        jar="D:\Program Files\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.2\jars\classes.jar"
         jumboMode="false"
         revision="23.0.3"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\support-annotations-23.4.0_d0ab5fe13e4c3a4b68b43dc904e4de5219c9f543.jar" />
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-database-connection-9.0.2_16f36b6ae589a65a105b9e4c6ca8b360f3d18502.jar" />
     </item>
     <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.2\jars\classes.jar"
         jumboMode="false"
         revision="23.0.3"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\internal_impl-23.4.0_867b6587ec66dcc371a5fe1b047d7a545c69345b.jar" />
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-storage-common-9.0.2_a55f704596db09c8f54aff85f520f816e534352d.jar" />
     </item>
     <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.android.gms-play-services-maps-9.0.2_cafcf0f7046347aebe5fcb9a5686a3b11e1bbc3a.jar" />
-    </item>
-    <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\pub.devrel\easypermissions\0.1.5\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="2ffd97c466e0021572f3c7333839c71ecdf393ed">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\pub.devrel-easypermissions-0.1.5_60e0a0499e8f5630f91c14ee2a0baaf413fdc292.jar" />
-    </item>
-    <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\com.android.support\percent\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="91c2541305eec5a688f3a60529d974e48f77d760">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.android.support-percent-23.4.0_c2078e6ca8278aa8750f0acec709d53b1a9baf18.jar" />
-    </item>
-    <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-crash-9.0.2_849e214995e7392797db5f8e100deee128e425d3.jar" />
-    </item>
-    <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.android.support-recyclerview-v7-23.4.0_7d9382916606ff8fcb5758b9c0e1e0fd57acb4c3.jar" />
-    </item>
-    <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.android.gms-play-services-base-9.0.2_e5bdd3e68335aea557d76ef9f5de6a5b9cf4c63b.jar" />
-    </item>
-    <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-iid-9.0.2_ee09cdd262fb0fd6588c7c32e987c5e2d291ab77.jar" />
-    </item>
-    <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-auth-module-9.0.2_870363cf4dc9b827c599ed42b76a5a69b45143ee.jar" />
-    </item>
-    <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-analytics-impl-9.0.2_2717d6d1940566307cc562a5a33b0444a8f365e5.jar" />
-    </item>
-    <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.android.gms-play-services-auth-9.0.2_82dd21b123ca2c4bfbdd9d9b21d65a7bc031eac4.jar" />
-    </item>
-    <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.android.support-support-v4-23.4.0_eeec1f3dd924fa7a790c1b0c0767da19b49ee895.jar" />
-    </item>
-    <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-storage-9.0.2_c8ee6474a060df6a2695210cf50ca87e7b2e0b92.jar" />
-    </item>
-    <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.android.support-animated-vector-drawable-23.4.0_6fcedd35d1961903b54356eef3264acfed09bc17.jar" />
-    </item>
-    <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.android.gms-play-services-tasks-9.0.2_5bbad804f8da40536ee3762f10438ce7eea972e5.jar" />
-    </item>
-    <item
-        jar="D:\workspace\MyFriendlypix\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.3"
         sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.android.support-appcompat-v7-23.4.0_504a99ee2429084c2f6f14ec126db1c962cc070e.jar" />
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.android.support-appcompat-v7-23.4.0_ef6d9dcda82264f5fa88cbb7e5c2c1e82e0e4106.jar" />
+    </item>
+    <item
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.android.support-support-vector-drawable-23.4.0_d90c28be815116a3d3556706c70eeb59b8f09d07.jar" />
+    </item>
+    <item
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-iid-9.0.2_3dffcdc5c99d7ca6246713cfad60c8e28cd8aec0.jar" />
+    </item>
+    <item
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.android.gms-play-services-tasks-9.0.2_9cfd3e4d78b02976576d2dc27be5c3d6ddbe0a27.jar" />
+    </item>
+    <item
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-storage-9.0.2_56bc8eb37e1e9e7c53dece4014a795acae01d196.jar" />
+    </item>
+    <item
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-auth-common-9.0.2_36caf06b0f203d357fc6b223b3ece0d979935b46.jar" />
+    </item>
+    <item
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.android.gms-play-services-auth-9.0.2_58ca5b30a2c6c7a855182263035759b10f73e3e6.jar" />
+    </item>
+    <item
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.android.gms-play-services-maps-9.0.2_2560acc68d7b28b0a5d3493a5807cd3936b8eef2.jar" />
+    </item>
+    <item
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.android.gms-play-services-auth-base-9.0.2_325f29354145580d2dfcba114f819bb05891a4b8.jar" />
+    </item>
+    <item
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-analytics-impl-9.0.2_9b403d54d3101de0dd590f180118d08bfdf8b978.jar" />
+    </item>
+    <item
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-crash-9.0.2_c7dcca8f6d744da80300aa55f3a8e88060b85215.jar" />
+    </item>
+    <item
+        jar="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\com.android.support-design-23.4.0_9381ff41cbe1193182eff408914ddbacebacf376.jar" />
     </item>
     <item
         jar="C:\Users\crown\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.3.1\98e2eefcf524f757188f172642ecf5e2c7421947\httpcore-4.3.1.jar"
         jumboMode="false"
         revision="23.0.3"
         sha1="98e2eefcf524f757188f172642ecf5e2c7421947">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\httpcore-4.3.1_ce5a44d682b36a77858271583d025170c6ef7921.jar" />
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\httpcore-4.3.1_ce5a44d682b36a77858271583d025170c6ef7921.jar" />
     </item>
     <item
         jar="C:\Users\crown\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.7.0\19f42c154ffc689f40a77613bc32caeb17d744e3\jackson-annotations-2.7.0.jar"
         jumboMode="false"
         revision="23.0.3"
         sha1="19f42c154ffc689f40a77613bc32caeb17d744e3">
-        <dex dex="D:\workspace\MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\jackson-annotations-2.7.0_53f57c75ef25c206ee845b6e2ddc9dc423b7cf9c.jar" />
+        <dex dex="D:\workspace\EC601HW2-MyFriendlypix\app\build\intermediates\pre-dexed\dev2\debug\jackson-annotations-2.7.0_53f57c75ef25c206ee845b6e2ddc9dc423b7cf9c.jar" />
     </item>
 
 </items>

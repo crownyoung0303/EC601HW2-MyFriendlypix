@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\workspace\\EC601HW2-MyFriendlypix\\app\\build\\intermediates\\res\\merged\\dev2\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "D:\\workspace\\EC601HW2-MyFriendlypix\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
         "merged": "D:\\workspace\\MyFriendlypix\\app\\build\\intermediates\\res\\merged\\dev2\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
         "source": "D:\\workspace\\MyFriendlypix\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     }

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\workspace\\EC601HW2-MyFriendlypix\\app\\build\\intermediates\\res\\merged\\dev2\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\workspace\\EC601HW2-MyFriendlypix\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "D:\\workspace\\MyFriendlypix\\app\\build\\intermediates\\res\\merged\\dev2\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
         "source": "D:\\workspace\\MyFriendlypix\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     }

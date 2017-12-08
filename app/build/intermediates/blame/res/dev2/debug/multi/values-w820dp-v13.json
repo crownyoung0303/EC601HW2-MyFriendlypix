@@ -1,5 +1,29 @@
 [
     {
+        "outputFile": "D:\\workspace\\EC601HW2-MyFriendlypix\\app\\build\\intermediates\\res\\merged\\dev2\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "D:\\workspace\\EC601HW2-MyFriendlypix\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 945,
+                        "endColumn": 57,
+                        "endOffset": 998
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "D:\\workspace\\MyFriendlypix\\app\\build\\intermediates\\res\\merged\\dev2\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
         "map": [
             {
